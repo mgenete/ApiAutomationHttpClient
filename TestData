@@ -1,0 +1,12 @@
+{
+		"BrandName": "Dell",
+		"Features": {
+			"Feature": [
+				"8GB RAM",
+				"1TB Hard Drive",
+				"256 GB SSD"
+			]
+		},
+		"Id": 120,
+		"LaptopName": "Latitude"
+	}
